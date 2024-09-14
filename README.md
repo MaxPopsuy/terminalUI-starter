@@ -27,7 +27,7 @@ To get started with the TUI Starter Pack for C#, follow these steps:
 1. **Clone the Repository**
 ```bash
    git clone https://github.com/MaxPopsuy/terminalUI-starter.git
-   cd tui-starterpack
+   cd terminalUI-starter
 ```
 
 
